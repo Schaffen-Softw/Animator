@@ -34,7 +34,7 @@ $ flutter build apk --release
 - <a href="https://github.com/Faraazusmani">Faraaz Usmani</a>
 - <a href="https://github.com/jayagupta17">Jaya Gupta</a>
 - <a href="https://github.com/nityakeshari">Nitya Keshari</a>
-- <a href="https://github.com/IshvinaKapoor">Isvina Kapoor</a>
+- <a href="https://github.com/IshvinaKapoor">Isvhina Kapoor</a>
 - <a href="https://github.com/<Contributor>">Shefali Wadhwa</a>
 
 ## License
